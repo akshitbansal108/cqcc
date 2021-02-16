@@ -1,3 +1,3 @@
 # cqcc
 
-Matlab implementation of constant Q cepstral coefficients
+Python implementation of constant Q cepstral coefficients
